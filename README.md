@@ -1,7 +1,7 @@
 # My-Snake-Game-use-MIPS-Assembly-language
 這是我使用MIPS組合語言撰寫的貪食蛇遊戲 :)
 
-###事前準備
+##事前準備:
 需事先安裝MIPS編譯環境MARS，可從密蘇里州立大學官網下載(因為就是他們開發的):[載點啦](http://courses.missouristate.edu/kenvollmar/mars/)
       
 ##使用教學:
