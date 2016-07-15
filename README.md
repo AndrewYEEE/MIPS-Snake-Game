@@ -5,7 +5,7 @@
       需事先安裝MIPS編譯環境MARS，可從密蘇里州立大學官網下載(因為就是他們開發的):
       [This link](http://courses.missouristate.edu/kenvollmar/mars/)
       
-##安裝教學:
+##使用教學:
 ![install](/install1.jpg)
 ![install](/install2.jpg)
 ![install](/install3.jpg)
