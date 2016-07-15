@@ -1,6 +1,13 @@
 # My-Snake-Game-use-MIPS-Assembly-language
 這是我使用MIPS組合語言撰寫的貪食蛇遊戲:)
 
+###事前準備
+      需事先安裝MIPS編譯環境MARS，可從密蘇里州立大學官網下載(因為就是他們開發的):
+      [This link](http://courses.missouristate.edu/kenvollmar/mars/)
+      
+      安裝教學:
+      
+
 ###貪食蛇說明
 
 		利用”手動貪食蛇”基礎觀念，寫出一個能在一分鐘內自動吃100顆以上食物的貪食蛇AI程式，此過程需:研究->構想->設計->實作。
