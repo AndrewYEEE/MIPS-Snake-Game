@@ -15,7 +15,7 @@
 
 
 ###貪食蛇流程圖(Part1:加速&一般模式)  
-![一般模式流程圖](/snake_report.jpg)
+
 
 
 ###貪食蛇流程圖(Part2:Security模式)  
