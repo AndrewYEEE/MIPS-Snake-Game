@@ -5,7 +5,18 @@
       需事先安裝MIPS編譯環境MARS，可從密蘇里州立大學官網下載(因為就是他們開發的):
       [This link](http://courses.missouristate.edu/kenvollmar/mars/)
       
-      安裝教學:
+##安裝教學:
+![install](/install1.jpg)
+![install](/install2.jpg)
+![install](/install3.jpg)
+![install](/install4.jpg)
+![install](/install5.jpg)
+
+##具備知識:
+![know](/know1.jpg)
+![know](/know2.jpg)
+![know](/know3.jpg)
+![know](/know4.jpg)
       
 
 ###貪食蛇說明
